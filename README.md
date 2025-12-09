@@ -9,7 +9,7 @@
 
 - 🎓 **Education:** BCA, Final Year in Computer Science  
 
-- 🌱 **Currently Learning:** Full Stack Web Development (MERN), Operating Systems & DSA with Java  
+- 🌱 **Currently Learning:** JAVA Full Stack Web Development , Operating Systems & DSA with Java  
 
 - ⚡ **Fun Fact:** Tech enthusiast with a passion for programming and innovation  
 
